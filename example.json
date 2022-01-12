@@ -1,0 +1,1216 @@
+{
+   "compilationType":"itemsOfShow",
+   "id":"Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXU",
+   "isChildContent":false,
+   "pagination":{
+      "pageNumber":7,
+      "pageSize":12,
+      "totalElements":2972
+   },
+   "personalized":false,
+   "links":{
+      "self":{
+         "id":"Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXU",
+         "urlId":"Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXU",
+         "title":"Tagesschau",
+         "href":"https://api.ardmediathek.de/page-gateway/widgets/ard/asset/Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXU?pageNumber=7&pageSize=12&embedded=true&seasoned=false&seasonNumber=&withAudiodescription=false&withOriginalWithSubtitle=false&withOriginalversion=false",
+         "type":"application/vnd.ard.widget+json",
+         "partner":"ard"
+      }
+   },
+   "size":"m",
+   "swipeable":true,
+   "teasers":[
+      {
+         "availableTo":null,
+         "broadcastedOn":"2021-12-03T19:00:00Z",
+         "decor":"none",
+         "duration":919,
+         "id":"Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvNTAxN2ZiZmItYTc2Ni00ZTYzLWJiZTEtMDM2Y2I3ODFiNWQ2",
+         "images":{
+            "aspect16x9":{
+               "alt":"Sendungsbild",
+               "producerName":"ARD-Standbild",
+               "src":"https://api.ardmediathek.de/image-service/images/urn:ard:image:13d3e9683632c064?w={width}&f=",
+               "title":"tagesschau, 20:00 Uhr"
+            }
+         },
+         "isChildContent":false,
+         "longTitle":"tagesschau, 20:00 Uhr",
+         "maturityContentRating":"NONE",
+         "mediumTitle":"tagesschau, 20:00 Uhr",
+         "personalized":false,
+         "playtime":null,
+         "publicationService":{
+            "name":"Das Erste",
+            "logo":{
+               "title":"Logo Das Erste",
+               "alt":"Logo Das Erste",
+               "producerName":"Das Erste",
+               "src":"https://api.ardmediathek.de/image-service/image-collections/urn:ard:image-collection:2213972a8d101de1/16x9?w={width}&f=",
+               "aspectRatio":"16x9"
+            },
+            "publisherType":"TV",
+            "partner":"das_erste",
+            "id":"b3JnYW5pemF0aW9uX0RhcyBFcnN0ZQ"
+         },
+         "links":{
+            "self":{
+               "id":"Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvNTAxN2ZiZmItYTc2Ni00ZTYzLWJiZTEtMDM2Y2I3ODFiNWQ2",
+               "urlId":"Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvNTAxN2ZiZmItYTc2Ni00ZTYzLWJiZTEtMDM2Y2I3ODFiNWQ2",
+               "title":"tagesschau, 20:00 Uhr",
+               "href":"https://api.ardmediathek.de/page-gateway/teasers/ard/items/Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvNTAxN2ZiZmItYTc2Ni00ZTYzLWJiZTEtMDM2Y2I3ODFiNWQ2",
+               "type":"application/vnd.ard.teaser+json",
+               "partner":"ard"
+            },
+            "target":{
+               "id":"Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvNTAxN2ZiZmItYTc2Ni00ZTYzLWJiZTEtMDM2Y2I3ODFiNWQ2",
+               "urlId":"Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvNTAxN2ZiZmItYTc2Ni00ZTYzLWJiZTEtMDM2Y2I3ODFiNWQ2",
+               "title":"tagesschau, 20:00 Uhr",
+               "href":"https://api.ardmediathek.de/page-gateway/pages/ard/item/Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvNTAxN2ZiZmItYTc2Ni00ZTYzLWJiZTEtMDM2Y2I3ODFiNWQ2?devicetype=pc&embedded=true",
+               "type":"application/vnd.ard.page+json",
+               "partner":"ard"
+            }
+         },
+         "shortTitle":"tagesschau, 20:00 Uhr",
+         "show":{
+            "id":"crid://daserste.de/tagesschau",
+            "coremediaId":4326,
+            "title":"Tagesschau",
+            "publisher":{
+               "name":"Das Erste",
+               "logo":{
+                  "title":"Logo Das Erste",
+                  "alt":"Logo Das Erste",
+                  "producerName":"Das Erste",
+                  "src":"https://api.ardmediathek.de/image-service/image-collections/urn:ard:image-collection:2213972a8d101de1/16x9?w={width}&f=",
+                  "aspectRatio":"16x9"
+               },
+               "publisherType":"TV",
+               "partner":"das_erste",
+               "id":"b3JnYW5pemF0aW9uX0RhcyBFcnN0ZQ"
+            },
+            "self":null,
+            "images":{
+               "16x9":{
+                  "title":"Tagesschau - Standbild",
+                  "alt":"Bild zur Sendung Tagesschau",
+                  "producerName":"Das Erste",
+                  "src":"https://api.ardmediathek.de/image-service/images/urn:ard:image:4b2720edb6b2f99f?w={width}&f=",
+                  "aspectRatio":"16x9"
+               }
+            },
+            "shortSynopsis":"Die Tagesschau ist die älteste und meistgesehene Nachrichtensendung im deutschen Fernsehen. Bis heute der Inbegriff für aktuelle Nachrichten. Seriös und auf den Punkt.",
+            "synopsis":"Die Tagesschau ist die älteste und meistgesehene Nachrichtensendung im deutschen Fernsehen. Bis heute der Inbegriff für aktuelle Nachrichten. Seriös und auf den Punkt.",
+            "longSynopsis":"Die Tagesschau ist die älteste und meistgesehene Nachrichtensendung im deutschen Fernsehen. Bis heute der Inbegriff für aktuelle Nachrichten. Seriös und auf den Punkt.",
+            "modificationDate":null,
+            "assetSource":"TwilightFeeder",
+            "groupingType":"SHOW",
+            "homepage":{
+               "id":null,
+               "title":"Tagesschau",
+               "href":"https://www.tagesschau.de",
+               "type":null
+            },
+            "hasSeasons":false,
+            "seriesDetail":null,
+            "isChildContent":false
+         },
+         "subtitled":true,
+         "titleVisible":true,
+         "type":"ondemand"
+      },
+      {
+         "availableTo":null,
+         "broadcastedOn":"2021-12-02T19:00:00Z",
+         "decor":"none",
+         "duration":875,
+         "id":"Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvMTIxOGMyOTQtOGIxOC00MzliLTg3NDgtMmE1MjQ2YjJlY2U3",
+         "images":{
+            "aspect16x9":{
+               "alt":"Sendungsbild",
+               "producerName":"ARD-Standbild",
+               "src":"https://api.ardmediathek.de/image-service/images/urn:ard:image:3f7012aa13a7663c?w={width}&f=",
+               "title":"tagesschau, 20:00 Uhr"
+            }
+         },
+         "isChildContent":false,
+         "longTitle":"tagesschau, 20:00 Uhr",
+         "maturityContentRating":"NONE",
+         "mediumTitle":"tagesschau, 20:00 Uhr",
+         "personalized":false,
+         "playtime":null,
+         "publicationService":{
+            "name":"Das Erste",
+            "logo":{
+               "title":"Logo Das Erste",
+               "alt":"Logo Das Erste",
+               "producerName":"Das Erste",
+               "src":"https://api.ardmediathek.de/image-service/image-collections/urn:ard:image-collection:2213972a8d101de1/16x9?w={width}&f=",
+               "aspectRatio":"16x9"
+            },
+            "publisherType":"TV",
+            "partner":"das_erste",
+            "id":"b3JnYW5pemF0aW9uX0RhcyBFcnN0ZQ"
+         },
+         "links":{
+            "self":{
+               "id":"Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvMTIxOGMyOTQtOGIxOC00MzliLTg3NDgtMmE1MjQ2YjJlY2U3",
+               "urlId":"Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvMTIxOGMyOTQtOGIxOC00MzliLTg3NDgtMmE1MjQ2YjJlY2U3",
+               "title":"tagesschau, 20:00 Uhr",
+               "href":"https://api.ardmediathek.de/page-gateway/teasers/ard/items/Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvMTIxOGMyOTQtOGIxOC00MzliLTg3NDgtMmE1MjQ2YjJlY2U3",
+               "type":"application/vnd.ard.teaser+json",
+               "partner":"ard"
+            },
+            "target":{
+               "id":"Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvMTIxOGMyOTQtOGIxOC00MzliLTg3NDgtMmE1MjQ2YjJlY2U3",
+               "urlId":"Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvMTIxOGMyOTQtOGIxOC00MzliLTg3NDgtMmE1MjQ2YjJlY2U3",
+               "title":"tagesschau, 20:00 Uhr",
+               "href":"https://api.ardmediathek.de/page-gateway/pages/ard/item/Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvMTIxOGMyOTQtOGIxOC00MzliLTg3NDgtMmE1MjQ2YjJlY2U3?devicetype=pc&embedded=true",
+               "type":"application/vnd.ard.page+json",
+               "partner":"ard"
+            }
+         },
+         "shortTitle":"tagesschau, 20:00 Uhr",
+         "show":{
+            "id":"crid://daserste.de/tagesschau",
+            "coremediaId":4326,
+            "title":"Tagesschau",
+            "publisher":{
+               "name":"Das Erste",
+               "logo":{
+                  "title":"Logo Das Erste",
+                  "alt":"Logo Das Erste",
+                  "producerName":"Das Erste",
+                  "src":"https://api.ardmediathek.de/image-service/image-collections/urn:ard:image-collection:2213972a8d101de1/16x9?w={width}&f=",
+                  "aspectRatio":"16x9"
+               },
+               "publisherType":"TV",
+               "partner":"das_erste",
+               "id":"b3JnYW5pemF0aW9uX0RhcyBFcnN0ZQ"
+            },
+            "self":null,
+            "images":{
+               "16x9":{
+                  "title":"Tagesschau - Standbild",
+                  "alt":"Bild zur Sendung Tagesschau",
+                  "producerName":"Das Erste",
+                  "src":"https://api.ardmediathek.de/image-service/images/urn:ard:image:4b2720edb6b2f99f?w={width}&f=",
+                  "aspectRatio":"16x9"
+               }
+            },
+            "shortSynopsis":"Die Tagesschau ist die älteste und meistgesehene Nachrichtensendung im deutschen Fernsehen. Bis heute der Inbegriff für aktuelle Nachrichten. Seriös und auf den Punkt.",
+            "synopsis":"Die Tagesschau ist die älteste und meistgesehene Nachrichtensendung im deutschen Fernsehen. Bis heute der Inbegriff für aktuelle Nachrichten. Seriös und auf den Punkt.",
+            "longSynopsis":"Die Tagesschau ist die älteste und meistgesehene Nachrichtensendung im deutschen Fernsehen. Bis heute der Inbegriff für aktuelle Nachrichten. Seriös und auf den Punkt.",
+            "modificationDate":null,
+            "assetSource":"TwilightFeeder",
+            "groupingType":"SHOW",
+            "homepage":{
+               "id":null,
+               "title":"Tagesschau",
+               "href":"https://www.tagesschau.de",
+               "type":null
+            },
+            "hasSeasons":false,
+            "seriesDetail":null,
+            "isChildContent":false
+         },
+         "subtitled":true,
+         "titleVisible":true,
+         "type":"ondemand"
+      },
+      {
+         "availableTo":null,
+         "broadcastedOn":"2021-12-01T19:00:00Z",
+         "decor":"none",
+         "duration":906,
+         "id":"Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvN2ZhZGIwYWQtMmVkMi00N2E0LThiMzItNjJlNWMxNDU2ZTll",
+         "images":{
+            "aspect16x9":{
+               "alt":"Sendungsbild",
+               "producerName":"ARD-Standbild",
+               "src":"https://api.ardmediathek.de/image-service/images/urn:ard:image:2ae6156084506423?w={width}&f=",
+               "title":"tagesschau, 20:00 Uhr"
+            }
+         },
+         "isChildContent":false,
+         "longTitle":"tagesschau, 20:00 Uhr",
+         "maturityContentRating":"NONE",
+         "mediumTitle":"tagesschau, 20:00 Uhr",
+         "personalized":false,
+         "playtime":null,
+         "publicationService":{
+            "name":"Das Erste",
+            "logo":{
+               "title":"Logo Das Erste",
+               "alt":"Logo Das Erste",
+               "producerName":"Das Erste",
+               "src":"https://api.ardmediathek.de/image-service/image-collections/urn:ard:image-collection:2213972a8d101de1/16x9?w={width}&f=",
+               "aspectRatio":"16x9"
+            },
+            "publisherType":"TV",
+            "partner":"das_erste",
+            "id":"b3JnYW5pemF0aW9uX0RhcyBFcnN0ZQ"
+         },
+         "links":{
+            "self":{
+               "id":"Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvN2ZhZGIwYWQtMmVkMi00N2E0LThiMzItNjJlNWMxNDU2ZTll",
+               "urlId":"Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvN2ZhZGIwYWQtMmVkMi00N2E0LThiMzItNjJlNWMxNDU2ZTll",
+               "title":"tagesschau, 20:00 Uhr",
+               "href":"https://api.ardmediathek.de/page-gateway/teasers/ard/items/Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvN2ZhZGIwYWQtMmVkMi00N2E0LThiMzItNjJlNWMxNDU2ZTll",
+               "type":"application/vnd.ard.teaser+json",
+               "partner":"ard"
+            },
+            "target":{
+               "id":"Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvN2ZhZGIwYWQtMmVkMi00N2E0LThiMzItNjJlNWMxNDU2ZTll",
+               "urlId":"Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvN2ZhZGIwYWQtMmVkMi00N2E0LThiMzItNjJlNWMxNDU2ZTll",
+               "title":"tagesschau, 20:00 Uhr",
+               "href":"https://api.ardmediathek.de/page-gateway/pages/ard/item/Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvN2ZhZGIwYWQtMmVkMi00N2E0LThiMzItNjJlNWMxNDU2ZTll?devicetype=pc&embedded=true",
+               "type":"application/vnd.ard.page+json",
+               "partner":"ard"
+            }
+         },
+         "shortTitle":"tagesschau, 20:00 Uhr",
+         "show":{
+            "id":"crid://daserste.de/tagesschau",
+            "coremediaId":4326,
+            "title":"Tagesschau",
+            "publisher":{
+               "name":"Das Erste",
+               "logo":{
+                  "title":"Logo Das Erste",
+                  "alt":"Logo Das Erste",
+                  "producerName":"Das Erste",
+                  "src":"https://api.ardmediathek.de/image-service/image-collections/urn:ard:image-collection:2213972a8d101de1/16x9?w={width}&f=",
+                  "aspectRatio":"16x9"
+               },
+               "publisherType":"TV",
+               "partner":"das_erste",
+               "id":"b3JnYW5pemF0aW9uX0RhcyBFcnN0ZQ"
+            },
+            "self":null,
+            "images":{
+               "16x9":{
+                  "title":"Tagesschau - Standbild",
+                  "alt":"Bild zur Sendung Tagesschau",
+                  "producerName":"Das Erste",
+                  "src":"https://api.ardmediathek.de/image-service/images/urn:ard:image:4b2720edb6b2f99f?w={width}&f=",
+                  "aspectRatio":"16x9"
+               }
+            },
+            "shortSynopsis":"Die Tagesschau ist die älteste und meistgesehene Nachrichtensendung im deutschen Fernsehen. Bis heute der Inbegriff für aktuelle Nachrichten. Seriös und auf den Punkt.",
+            "synopsis":"Die Tagesschau ist die älteste und meistgesehene Nachrichtensendung im deutschen Fernsehen. Bis heute der Inbegriff für aktuelle Nachrichten. Seriös und auf den Punkt.",
+            "longSynopsis":"Die Tagesschau ist die älteste und meistgesehene Nachrichtensendung im deutschen Fernsehen. Bis heute der Inbegriff für aktuelle Nachrichten. Seriös und auf den Punkt.",
+            "modificationDate":null,
+            "assetSource":"TwilightFeeder",
+            "groupingType":"SHOW",
+            "homepage":{
+               "id":null,
+               "title":"Tagesschau",
+               "href":"https://www.tagesschau.de",
+               "type":null
+            },
+            "hasSeasons":false,
+            "seriesDetail":null,
+            "isChildContent":false
+         },
+         "subtitled":true,
+         "titleVisible":true,
+         "type":"ondemand"
+      },
+      {
+         "availableTo":null,
+         "broadcastedOn":"2021-11-30T19:00:00Z",
+         "decor":"none",
+         "duration":922,
+         "id":"Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvODA4NTNiYzctOGEzZS00ZTY1LWE3MmQtYmFhMTU3NTZiYjcw",
+         "images":{
+            "aspect16x9":{
+               "alt":"Sendungsbild",
+               "producerName":"ARD-Standbild",
+               "src":"https://api.ardmediathek.de/image-service/images/urn:ard:image:b28e953cc6ee1e73?w={width}&f=",
+               "title":"tagesschau, 20:00 Uhr - "
+            }
+         },
+         "isChildContent":false,
+         "longTitle":"tagesschau, 20:00 Uhr",
+         "maturityContentRating":"NONE",
+         "mediumTitle":"tagesschau, 20:00 Uhr",
+         "personalized":false,
+         "playtime":null,
+         "publicationService":{
+            "name":"Das Erste",
+            "logo":{
+               "title":"Logo Das Erste",
+               "alt":"Logo Das Erste",
+               "producerName":"Das Erste",
+               "src":"https://api.ardmediathek.de/image-service/image-collections/urn:ard:image-collection:2213972a8d101de1/16x9?w={width}&f=",
+               "aspectRatio":"16x9"
+            },
+            "publisherType":"TV",
+            "partner":"das_erste",
+            "id":"b3JnYW5pemF0aW9uX0RhcyBFcnN0ZQ"
+         },
+         "links":{
+            "self":{
+               "id":"Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvODA4NTNiYzctOGEzZS00ZTY1LWE3MmQtYmFhMTU3NTZiYjcw",
+               "urlId":"Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvODA4NTNiYzctOGEzZS00ZTY1LWE3MmQtYmFhMTU3NTZiYjcw",
+               "title":"tagesschau, 20:00 Uhr",
+               "href":"https://api.ardmediathek.de/page-gateway/teasers/ard/items/Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvODA4NTNiYzctOGEzZS00ZTY1LWE3MmQtYmFhMTU3NTZiYjcw",
+               "type":"application/vnd.ard.teaser+json",
+               "partner":"ard"
+            },
+            "target":{
+               "id":"Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvODA4NTNiYzctOGEzZS00ZTY1LWE3MmQtYmFhMTU3NTZiYjcw",
+               "urlId":"Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvODA4NTNiYzctOGEzZS00ZTY1LWE3MmQtYmFhMTU3NTZiYjcw",
+               "title":"tagesschau, 20:00 Uhr",
+               "href":"https://api.ardmediathek.de/page-gateway/pages/ard/item/Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvODA4NTNiYzctOGEzZS00ZTY1LWE3MmQtYmFhMTU3NTZiYjcw?devicetype=pc&embedded=true",
+               "type":"application/vnd.ard.page+json",
+               "partner":"ard"
+            }
+         },
+         "shortTitle":"tagesschau, 20:00 Uhr",
+         "show":{
+            "id":"crid://daserste.de/tagesschau",
+            "coremediaId":4326,
+            "title":"Tagesschau",
+            "publisher":{
+               "name":"Das Erste",
+               "logo":{
+                  "title":"Logo Das Erste",
+                  "alt":"Logo Das Erste",
+                  "producerName":"Das Erste",
+                  "src":"https://api.ardmediathek.de/image-service/image-collections/urn:ard:image-collection:2213972a8d101de1/16x9?w={width}&f=",
+                  "aspectRatio":"16x9"
+               },
+               "publisherType":"TV",
+               "partner":"das_erste",
+               "id":"b3JnYW5pemF0aW9uX0RhcyBFcnN0ZQ"
+            },
+            "self":null,
+            "images":{
+               "16x9":{
+                  "title":"Tagesschau - Standbild",
+                  "alt":"Bild zur Sendung Tagesschau",
+                  "producerName":"Das Erste",
+                  "src":"https://api.ardmediathek.de/image-service/images/urn:ard:image:4b2720edb6b2f99f?w={width}&f=",
+                  "aspectRatio":"16x9"
+               }
+            },
+            "shortSynopsis":"Die Tagesschau ist die älteste und meistgesehene Nachrichtensendung im deutschen Fernsehen. Bis heute der Inbegriff für aktuelle Nachrichten. Seriös und auf den Punkt.",
+            "synopsis":"Die Tagesschau ist die älteste und meistgesehene Nachrichtensendung im deutschen Fernsehen. Bis heute der Inbegriff für aktuelle Nachrichten. Seriös und auf den Punkt.",
+            "longSynopsis":"Die Tagesschau ist die älteste und meistgesehene Nachrichtensendung im deutschen Fernsehen. Bis heute der Inbegriff für aktuelle Nachrichten. Seriös und auf den Punkt.",
+            "modificationDate":null,
+            "assetSource":"TwilightFeeder",
+            "groupingType":"SHOW",
+            "homepage":{
+               "id":null,
+               "title":"Tagesschau",
+               "href":"https://www.tagesschau.de",
+               "type":null
+            },
+            "hasSeasons":false,
+            "seriesDetail":null,
+            "isChildContent":false
+         },
+         "subtitled":true,
+         "titleVisible":true,
+         "type":"ondemand"
+      },
+      {
+         "availableTo":null,
+         "broadcastedOn":"2021-11-29T19:00:00Z",
+         "decor":"none",
+         "duration":942,
+         "id":"Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvOWEwY2Y3MTktMGU4NS00YmYwLWI0NDItNmJiOGUyYWQxYmNh",
+         "images":{
+            "aspect16x9":{
+               "alt":"Sendungsbild",
+               "producerName":"ARD-Standbild",
+               "src":"https://api.ardmediathek.de/image-service/images/urn:ard:image:09e105adecfdaaf6?w={width}&f=",
+               "title":"tagesschau, 20:00 Uhr"
+            }
+         },
+         "isChildContent":false,
+         "longTitle":"tagesschau, 20:00 Uhr",
+         "maturityContentRating":"NONE",
+         "mediumTitle":"tagesschau, 20:00 Uhr",
+         "personalized":false,
+         "playtime":null,
+         "publicationService":{
+            "name":"Das Erste",
+            "logo":{
+               "title":"Logo Das Erste",
+               "alt":"Logo Das Erste",
+               "producerName":"Das Erste",
+               "src":"https://api.ardmediathek.de/image-service/image-collections/urn:ard:image-collection:2213972a8d101de1/16x9?w={width}&f=",
+               "aspectRatio":"16x9"
+            },
+            "publisherType":"TV",
+            "partner":"das_erste",
+            "id":"b3JnYW5pemF0aW9uX0RhcyBFcnN0ZQ"
+         },
+         "links":{
+            "self":{
+               "id":"Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvOWEwY2Y3MTktMGU4NS00YmYwLWI0NDItNmJiOGUyYWQxYmNh",
+               "urlId":"Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvOWEwY2Y3MTktMGU4NS00YmYwLWI0NDItNmJiOGUyYWQxYmNh",
+               "title":"tagesschau, 20:00 Uhr",
+               "href":"https://api.ardmediathek.de/page-gateway/teasers/ard/items/Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvOWEwY2Y3MTktMGU4NS00YmYwLWI0NDItNmJiOGUyYWQxYmNh",
+               "type":"application/vnd.ard.teaser+json",
+               "partner":"ard"
+            },
+            "target":{
+               "id":"Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvOWEwY2Y3MTktMGU4NS00YmYwLWI0NDItNmJiOGUyYWQxYmNh",
+               "urlId":"Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvOWEwY2Y3MTktMGU4NS00YmYwLWI0NDItNmJiOGUyYWQxYmNh",
+               "title":"tagesschau, 20:00 Uhr",
+               "href":"https://api.ardmediathek.de/page-gateway/pages/ard/item/Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvOWEwY2Y3MTktMGU4NS00YmYwLWI0NDItNmJiOGUyYWQxYmNh?devicetype=pc&embedded=true",
+               "type":"application/vnd.ard.page+json",
+               "partner":"ard"
+            }
+         },
+         "shortTitle":"tagesschau, 20:00 Uhr",
+         "show":{
+            "id":"crid://daserste.de/tagesschau",
+            "coremediaId":4326,
+            "title":"Tagesschau",
+            "publisher":{
+               "name":"Das Erste",
+               "logo":{
+                  "title":"Logo Das Erste",
+                  "alt":"Logo Das Erste",
+                  "producerName":"Das Erste",
+                  "src":"https://api.ardmediathek.de/image-service/image-collections/urn:ard:image-collection:2213972a8d101de1/16x9?w={width}&f=",
+                  "aspectRatio":"16x9"
+               },
+               "publisherType":"TV",
+               "partner":"das_erste",
+               "id":"b3JnYW5pemF0aW9uX0RhcyBFcnN0ZQ"
+            },
+            "self":null,
+            "images":{
+               "16x9":{
+                  "title":"Tagesschau - Standbild",
+                  "alt":"Bild zur Sendung Tagesschau",
+                  "producerName":"Das Erste",
+                  "src":"https://api.ardmediathek.de/image-service/images/urn:ard:image:4b2720edb6b2f99f?w={width}&f=",
+                  "aspectRatio":"16x9"
+               }
+            },
+            "shortSynopsis":"Die Tagesschau ist die älteste und meistgesehene Nachrichtensendung im deutschen Fernsehen. Bis heute der Inbegriff für aktuelle Nachrichten. Seriös und auf den Punkt.",
+            "synopsis":"Die Tagesschau ist die älteste und meistgesehene Nachrichtensendung im deutschen Fernsehen. Bis heute der Inbegriff für aktuelle Nachrichten. Seriös und auf den Punkt.",
+            "longSynopsis":"Die Tagesschau ist die älteste und meistgesehene Nachrichtensendung im deutschen Fernsehen. Bis heute der Inbegriff für aktuelle Nachrichten. Seriös und auf den Punkt.",
+            "modificationDate":null,
+            "assetSource":"TwilightFeeder",
+            "groupingType":"SHOW",
+            "homepage":{
+               "id":null,
+               "title":"Tagesschau",
+               "href":"https://www.tagesschau.de",
+               "type":null
+            },
+            "hasSeasons":false,
+            "seriesDetail":null,
+            "isChildContent":false
+         },
+         "subtitled":false,
+         "titleVisible":true,
+         "type":"ondemand"
+      },
+      {
+         "availableTo":null,
+         "broadcastedOn":"2021-11-28T19:00:00Z",
+         "decor":"none",
+         "duration":908,
+         "id":"Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvMGQ4MjRhYjUtZWVmZi00NTA0LWJmMzItNjk0OGU5OWIzOTdm",
+         "images":{
+            "aspect16x9":{
+               "alt":"Sendungsbild",
+               "producerName":"ARD-Standbild",
+               "src":"https://api.ardmediathek.de/image-service/images/urn:ard:image:36cf24d7366b0ae0?w={width}&f=",
+               "title":"tagesschau, 20:00 Uhr"
+            }
+         },
+         "isChildContent":false,
+         "longTitle":"tagesschau, 20:00 Uhr",
+         "maturityContentRating":"NONE",
+         "mediumTitle":"tagesschau, 20:00 Uhr",
+         "personalized":false,
+         "playtime":null,
+         "publicationService":{
+            "name":"Das Erste",
+            "logo":{
+               "title":"Logo Das Erste",
+               "alt":"Logo Das Erste",
+               "producerName":"Das Erste",
+               "src":"https://api.ardmediathek.de/image-service/image-collections/urn:ard:image-collection:2213972a8d101de1/16x9?w={width}&f=",
+               "aspectRatio":"16x9"
+            },
+            "publisherType":"TV",
+            "partner":"das_erste",
+            "id":"b3JnYW5pemF0aW9uX0RhcyBFcnN0ZQ"
+         },
+         "links":{
+            "self":{
+               "id":"Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvMGQ4MjRhYjUtZWVmZi00NTA0LWJmMzItNjk0OGU5OWIzOTdm",
+               "urlId":"Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvMGQ4MjRhYjUtZWVmZi00NTA0LWJmMzItNjk0OGU5OWIzOTdm",
+               "title":"tagesschau, 20:00 Uhr",
+               "href":"https://api.ardmediathek.de/page-gateway/teasers/ard/items/Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvMGQ4MjRhYjUtZWVmZi00NTA0LWJmMzItNjk0OGU5OWIzOTdm",
+               "type":"application/vnd.ard.teaser+json",
+               "partner":"ard"
+            },
+            "target":{
+               "id":"Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvMGQ4MjRhYjUtZWVmZi00NTA0LWJmMzItNjk0OGU5OWIzOTdm",
+               "urlId":"Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvMGQ4MjRhYjUtZWVmZi00NTA0LWJmMzItNjk0OGU5OWIzOTdm",
+               "title":"tagesschau, 20:00 Uhr",
+               "href":"https://api.ardmediathek.de/page-gateway/pages/ard/item/Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvMGQ4MjRhYjUtZWVmZi00NTA0LWJmMzItNjk0OGU5OWIzOTdm?devicetype=pc&embedded=true",
+               "type":"application/vnd.ard.page+json",
+               "partner":"ard"
+            }
+         },
+         "shortTitle":"tagesschau, 20:00 Uhr",
+         "show":{
+            "id":"crid://daserste.de/tagesschau",
+            "coremediaId":4326,
+            "title":"Tagesschau",
+            "publisher":{
+               "name":"Das Erste",
+               "logo":{
+                  "title":"Logo Das Erste",
+                  "alt":"Logo Das Erste",
+                  "producerName":"Das Erste",
+                  "src":"https://api.ardmediathek.de/image-service/image-collections/urn:ard:image-collection:2213972a8d101de1/16x9?w={width}&f=",
+                  "aspectRatio":"16x9"
+               },
+               "publisherType":"TV",
+               "partner":"das_erste",
+               "id":"b3JnYW5pemF0aW9uX0RhcyBFcnN0ZQ"
+            },
+            "self":null,
+            "images":{
+               "16x9":{
+                  "title":"Tagesschau - Standbild",
+                  "alt":"Bild zur Sendung Tagesschau",
+                  "producerName":"Das Erste",
+                  "src":"https://api.ardmediathek.de/image-service/images/urn:ard:image:4b2720edb6b2f99f?w={width}&f=",
+                  "aspectRatio":"16x9"
+               }
+            },
+            "shortSynopsis":"Die Tagesschau ist die älteste und meistgesehene Nachrichtensendung im deutschen Fernsehen. Bis heute der Inbegriff für aktuelle Nachrichten. Seriös und auf den Punkt.",
+            "synopsis":"Die Tagesschau ist die älteste und meistgesehene Nachrichtensendung im deutschen Fernsehen. Bis heute der Inbegriff für aktuelle Nachrichten. Seriös und auf den Punkt.",
+            "longSynopsis":"Die Tagesschau ist die älteste und meistgesehene Nachrichtensendung im deutschen Fernsehen. Bis heute der Inbegriff für aktuelle Nachrichten. Seriös und auf den Punkt.",
+            "modificationDate":null,
+            "assetSource":"TwilightFeeder",
+            "groupingType":"SHOW",
+            "homepage":{
+               "id":null,
+               "title":"Tagesschau",
+               "href":"https://www.tagesschau.de",
+               "type":null
+            },
+            "hasSeasons":false,
+            "seriesDetail":null,
+            "isChildContent":false
+         },
+         "subtitled":true,
+         "titleVisible":true,
+         "type":"ondemand"
+      },
+      {
+         "availableTo":null,
+         "broadcastedOn":"2021-11-27T19:00:00Z",
+         "decor":"none",
+         "duration":858,
+         "id":"Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvMjMzZGZkMTktMjA4My00MWYzLTg1ZDctNWExNmFjMjg1Nzcx",
+         "images":{
+            "aspect16x9":{
+               "alt":"Sendungsbild",
+               "producerName":"ARD-Standbild",
+               "src":"https://api.ardmediathek.de/image-service/images/urn:ard:image:f03770b2c99fba53?w={width}&f=",
+               "title":"tagesschau, 20:00 Uhr - "
+            }
+         },
+         "isChildContent":false,
+         "longTitle":"tagesschau, 20:00 Uhr",
+         "maturityContentRating":"NONE",
+         "mediumTitle":"tagesschau, 20:00 Uhr",
+         "personalized":false,
+         "playtime":null,
+         "publicationService":{
+            "name":"Das Erste",
+            "logo":{
+               "title":"Logo Das Erste",
+               "alt":"Logo Das Erste",
+               "producerName":"Das Erste",
+               "src":"https://api.ardmediathek.de/image-service/image-collections/urn:ard:image-collection:2213972a8d101de1/16x9?w={width}&f=",
+               "aspectRatio":"16x9"
+            },
+            "publisherType":"TV",
+            "partner":"das_erste",
+            "id":"b3JnYW5pemF0aW9uX0RhcyBFcnN0ZQ"
+         },
+         "links":{
+            "self":{
+               "id":"Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvMjMzZGZkMTktMjA4My00MWYzLTg1ZDctNWExNmFjMjg1Nzcx",
+               "urlId":"Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvMjMzZGZkMTktMjA4My00MWYzLTg1ZDctNWExNmFjMjg1Nzcx",
+               "title":"tagesschau, 20:00 Uhr",
+               "href":"https://api.ardmediathek.de/page-gateway/teasers/ard/items/Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvMjMzZGZkMTktMjA4My00MWYzLTg1ZDctNWExNmFjMjg1Nzcx",
+               "type":"application/vnd.ard.teaser+json",
+               "partner":"ard"
+            },
+            "target":{
+               "id":"Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvMjMzZGZkMTktMjA4My00MWYzLTg1ZDctNWExNmFjMjg1Nzcx",
+               "urlId":"Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvMjMzZGZkMTktMjA4My00MWYzLTg1ZDctNWExNmFjMjg1Nzcx",
+               "title":"tagesschau, 20:00 Uhr",
+               "href":"https://api.ardmediathek.de/page-gateway/pages/ard/item/Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvMjMzZGZkMTktMjA4My00MWYzLTg1ZDctNWExNmFjMjg1Nzcx?devicetype=pc&embedded=true",
+               "type":"application/vnd.ard.page+json",
+               "partner":"ard"
+            }
+         },
+         "shortTitle":"tagesschau, 20:00 Uhr",
+         "show":{
+            "id":"crid://daserste.de/tagesschau",
+            "coremediaId":4326,
+            "title":"Tagesschau",
+            "publisher":{
+               "name":"Das Erste",
+               "logo":{
+                  "title":"Logo Das Erste",
+                  "alt":"Logo Das Erste",
+                  "producerName":"Das Erste",
+                  "src":"https://api.ardmediathek.de/image-service/image-collections/urn:ard:image-collection:2213972a8d101de1/16x9?w={width}&f=",
+                  "aspectRatio":"16x9"
+               },
+               "publisherType":"TV",
+               "partner":"das_erste",
+               "id":"b3JnYW5pemF0aW9uX0RhcyBFcnN0ZQ"
+            },
+            "self":null,
+            "images":{
+               "16x9":{
+                  "title":"Tagesschau - Standbild",
+                  "alt":"Bild zur Sendung Tagesschau",
+                  "producerName":"Das Erste",
+                  "src":"https://api.ardmediathek.de/image-service/images/urn:ard:image:4b2720edb6b2f99f?w={width}&f=",
+                  "aspectRatio":"16x9"
+               }
+            },
+            "shortSynopsis":"Die Tagesschau ist die älteste und meistgesehene Nachrichtensendung im deutschen Fernsehen. Bis heute der Inbegriff für aktuelle Nachrichten. Seriös und auf den Punkt.",
+            "synopsis":"Die Tagesschau ist die älteste und meistgesehene Nachrichtensendung im deutschen Fernsehen. Bis heute der Inbegriff für aktuelle Nachrichten. Seriös und auf den Punkt.",
+            "longSynopsis":"Die Tagesschau ist die älteste und meistgesehene Nachrichtensendung im deutschen Fernsehen. Bis heute der Inbegriff für aktuelle Nachrichten. Seriös und auf den Punkt.",
+            "modificationDate":null,
+            "assetSource":"TwilightFeeder",
+            "groupingType":"SHOW",
+            "homepage":{
+               "id":null,
+               "title":"Tagesschau",
+               "href":"https://www.tagesschau.de",
+               "type":null
+            },
+            "hasSeasons":false,
+            "seriesDetail":null,
+            "isChildContent":false
+         },
+         "subtitled":true,
+         "titleVisible":true,
+         "type":"ondemand"
+      },
+      {
+         "availableTo":null,
+         "broadcastedOn":"2021-11-26T19:00:00Z",
+         "decor":"none",
+         "duration":921,
+         "id":"Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvNzhmNTAzMzUtNzVjYS00MTA3LTgxNWMtYzQ2ZGE3Yjg2NTIx",
+         "images":{
+            "aspect16x9":{
+               "alt":"Sendungsbild",
+               "producerName":"ARD-Standbild",
+               "src":"https://api.ardmediathek.de/image-service/images/urn:ard:image:e78e961a0bdf67ae?w={width}&f=",
+               "title":"tagesschau, 20:00 Uhr - "
+            }
+         },
+         "isChildContent":false,
+         "longTitle":"tagesschau, 20:00 Uhr",
+         "maturityContentRating":"NONE",
+         "mediumTitle":"tagesschau, 20:00 Uhr",
+         "personalized":false,
+         "playtime":null,
+         "publicationService":{
+            "name":"Das Erste",
+            "logo":{
+               "title":"Logo Das Erste",
+               "alt":"Logo Das Erste",
+               "producerName":"Das Erste",
+               "src":"https://api.ardmediathek.de/image-service/image-collections/urn:ard:image-collection:2213972a8d101de1/16x9?w={width}&f=",
+               "aspectRatio":"16x9"
+            },
+            "publisherType":"TV",
+            "partner":"das_erste",
+            "id":"b3JnYW5pemF0aW9uX0RhcyBFcnN0ZQ"
+         },
+         "links":{
+            "self":{
+               "id":"Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvNzhmNTAzMzUtNzVjYS00MTA3LTgxNWMtYzQ2ZGE3Yjg2NTIx",
+               "urlId":"Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvNzhmNTAzMzUtNzVjYS00MTA3LTgxNWMtYzQ2ZGE3Yjg2NTIx",
+               "title":"tagesschau, 20:00 Uhr",
+               "href":"https://api.ardmediathek.de/page-gateway/teasers/ard/items/Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvNzhmNTAzMzUtNzVjYS00MTA3LTgxNWMtYzQ2ZGE3Yjg2NTIx",
+               "type":"application/vnd.ard.teaser+json",
+               "partner":"ard"
+            },
+            "target":{
+               "id":"Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvNzhmNTAzMzUtNzVjYS00MTA3LTgxNWMtYzQ2ZGE3Yjg2NTIx",
+               "urlId":"Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvNzhmNTAzMzUtNzVjYS00MTA3LTgxNWMtYzQ2ZGE3Yjg2NTIx",
+               "title":"tagesschau, 20:00 Uhr",
+               "href":"https://api.ardmediathek.de/page-gateway/pages/ard/item/Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvNzhmNTAzMzUtNzVjYS00MTA3LTgxNWMtYzQ2ZGE3Yjg2NTIx?devicetype=pc&embedded=true",
+               "type":"application/vnd.ard.page+json",
+               "partner":"ard"
+            }
+         },
+         "shortTitle":"tagesschau, 20:00 Uhr",
+         "show":{
+            "id":"crid://daserste.de/tagesschau",
+            "coremediaId":4326,
+            "title":"Tagesschau",
+            "publisher":{
+               "name":"Das Erste",
+               "logo":{
+                  "title":"Logo Das Erste",
+                  "alt":"Logo Das Erste",
+                  "producerName":"Das Erste",
+                  "src":"https://api.ardmediathek.de/image-service/image-collections/urn:ard:image-collection:2213972a8d101de1/16x9?w={width}&f=",
+                  "aspectRatio":"16x9"
+               },
+               "publisherType":"TV",
+               "partner":"das_erste",
+               "id":"b3JnYW5pemF0aW9uX0RhcyBFcnN0ZQ"
+            },
+            "self":null,
+            "images":{
+               "16x9":{
+                  "title":"Tagesschau - Standbild",
+                  "alt":"Bild zur Sendung Tagesschau",
+                  "producerName":"Das Erste",
+                  "src":"https://api.ardmediathek.de/image-service/images/urn:ard:image:4b2720edb6b2f99f?w={width}&f=",
+                  "aspectRatio":"16x9"
+               }
+            },
+            "shortSynopsis":"Die Tagesschau ist die älteste und meistgesehene Nachrichtensendung im deutschen Fernsehen. Bis heute der Inbegriff für aktuelle Nachrichten. Seriös und auf den Punkt.",
+            "synopsis":"Die Tagesschau ist die älteste und meistgesehene Nachrichtensendung im deutschen Fernsehen. Bis heute der Inbegriff für aktuelle Nachrichten. Seriös und auf den Punkt.",
+            "longSynopsis":"Die Tagesschau ist die älteste und meistgesehene Nachrichtensendung im deutschen Fernsehen. Bis heute der Inbegriff für aktuelle Nachrichten. Seriös und auf den Punkt.",
+            "modificationDate":null,
+            "assetSource":"TwilightFeeder",
+            "groupingType":"SHOW",
+            "homepage":{
+               "id":null,
+               "title":"Tagesschau",
+               "href":"https://www.tagesschau.de",
+               "type":null
+            },
+            "hasSeasons":false,
+            "seriesDetail":null,
+            "isChildContent":false
+         },
+         "subtitled":true,
+         "titleVisible":true,
+         "type":"ondemand"
+      },
+      {
+         "availableTo":null,
+         "broadcastedOn":"2021-11-25T19:00:00Z",
+         "decor":"none",
+         "duration":934,
+         "id":"Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvZTczZTE4NmYtNjJmOC00ODA0LWJhMzgtOWQ2M2UyOTViNjFh",
+         "images":{
+            "aspect16x9":{
+               "alt":"Sendungsbild",
+               "producerName":"ARD-Standbild",
+               "src":"https://api.ardmediathek.de/image-service/images/urn:ard:image:c34356709e2ea938?w={width}&f=",
+               "title":"tagesschau, 20:00 Uhr - "
+            }
+         },
+         "isChildContent":false,
+         "longTitle":"tagesschau, 20:00 Uhr",
+         "maturityContentRating":"NONE",
+         "mediumTitle":"tagesschau, 20:00 Uhr",
+         "personalized":false,
+         "playtime":null,
+         "publicationService":{
+            "name":"Das Erste",
+            "logo":{
+               "title":"Logo Das Erste",
+               "alt":"Logo Das Erste",
+               "producerName":"Das Erste",
+               "src":"https://api.ardmediathek.de/image-service/image-collections/urn:ard:image-collection:2213972a8d101de1/16x9?w={width}&f=",
+               "aspectRatio":"16x9"
+            },
+            "publisherType":"TV",
+            "partner":"das_erste",
+            "id":"b3JnYW5pemF0aW9uX0RhcyBFcnN0ZQ"
+         },
+         "links":{
+            "self":{
+               "id":"Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvZTczZTE4NmYtNjJmOC00ODA0LWJhMzgtOWQ2M2UyOTViNjFh",
+               "urlId":"Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvZTczZTE4NmYtNjJmOC00ODA0LWJhMzgtOWQ2M2UyOTViNjFh",
+               "title":"tagesschau, 20:00 Uhr",
+               "href":"https://api.ardmediathek.de/page-gateway/teasers/ard/items/Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvZTczZTE4NmYtNjJmOC00ODA0LWJhMzgtOWQ2M2UyOTViNjFh",
+               "type":"application/vnd.ard.teaser+json",
+               "partner":"ard"
+            },
+            "target":{
+               "id":"Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvZTczZTE4NmYtNjJmOC00ODA0LWJhMzgtOWQ2M2UyOTViNjFh",
+               "urlId":"Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvZTczZTE4NmYtNjJmOC00ODA0LWJhMzgtOWQ2M2UyOTViNjFh",
+               "title":"tagesschau, 20:00 Uhr",
+               "href":"https://api.ardmediathek.de/page-gateway/pages/ard/item/Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvZTczZTE4NmYtNjJmOC00ODA0LWJhMzgtOWQ2M2UyOTViNjFh?devicetype=pc&embedded=true",
+               "type":"application/vnd.ard.page+json",
+               "partner":"ard"
+            }
+         },
+         "shortTitle":"tagesschau, 20:00 Uhr",
+         "show":{
+            "id":"crid://daserste.de/tagesschau",
+            "coremediaId":4326,
+            "title":"Tagesschau",
+            "publisher":{
+               "name":"Das Erste",
+               "logo":{
+                  "title":"Logo Das Erste",
+                  "alt":"Logo Das Erste",
+                  "producerName":"Das Erste",
+                  "src":"https://api.ardmediathek.de/image-service/image-collections/urn:ard:image-collection:2213972a8d101de1/16x9?w={width}&f=",
+                  "aspectRatio":"16x9"
+               },
+               "publisherType":"TV",
+               "partner":"das_erste",
+               "id":"b3JnYW5pemF0aW9uX0RhcyBFcnN0ZQ"
+            },
+            "self":null,
+            "images":{
+               "16x9":{
+                  "title":"Tagesschau - Standbild",
+                  "alt":"Bild zur Sendung Tagesschau",
+                  "producerName":"Das Erste",
+                  "src":"https://api.ardmediathek.de/image-service/images/urn:ard:image:4b2720edb6b2f99f?w={width}&f=",
+                  "aspectRatio":"16x9"
+               }
+            },
+            "shortSynopsis":"Die Tagesschau ist die älteste und meistgesehene Nachrichtensendung im deutschen Fernsehen. Bis heute der Inbegriff für aktuelle Nachrichten. Seriös und auf den Punkt.",
+            "synopsis":"Die Tagesschau ist die älteste und meistgesehene Nachrichtensendung im deutschen Fernsehen. Bis heute der Inbegriff für aktuelle Nachrichten. Seriös und auf den Punkt.",
+            "longSynopsis":"Die Tagesschau ist die älteste und meistgesehene Nachrichtensendung im deutschen Fernsehen. Bis heute der Inbegriff für aktuelle Nachrichten. Seriös und auf den Punkt.",
+            "modificationDate":null,
+            "assetSource":"TwilightFeeder",
+            "groupingType":"SHOW",
+            "homepage":{
+               "id":null,
+               "title":"Tagesschau",
+               "href":"https://www.tagesschau.de",
+               "type":null
+            },
+            "hasSeasons":false,
+            "seriesDetail":null,
+            "isChildContent":false
+         },
+         "subtitled":true,
+         "titleVisible":true,
+         "type":"ondemand"
+      },
+      {
+         "availableTo":null,
+         "broadcastedOn":"2021-11-24T19:00:00Z",
+         "decor":"none",
+         "duration":926,
+         "id":"Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvZGFjYjhjMTAtZmJiOS00MzEzLWEwOTctYjA2NGFkMTcxZTY3",
+         "images":{
+            "aspect16x9":{
+               "alt":"Sendungsbild",
+               "producerName":"ARD-Standbild",
+               "src":"https://api.ardmediathek.de/image-service/images/urn:ard:image:363b4cbad599b734?w={width}&f=",
+               "title":"tagesschau, 20:00 Uhr - "
+            }
+         },
+         "isChildContent":false,
+         "longTitle":"tagesschau, 20:00 Uhr",
+         "maturityContentRating":"NONE",
+         "mediumTitle":"tagesschau, 20:00 Uhr",
+         "personalized":false,
+         "playtime":null,
+         "publicationService":{
+            "name":"Das Erste",
+            "logo":{
+               "title":"Logo Das Erste",
+               "alt":"Logo Das Erste",
+               "producerName":"Das Erste",
+               "src":"https://api.ardmediathek.de/image-service/image-collections/urn:ard:image-collection:2213972a8d101de1/16x9?w={width}&f=",
+               "aspectRatio":"16x9"
+            },
+            "publisherType":"TV",
+            "partner":"das_erste",
+            "id":"b3JnYW5pemF0aW9uX0RhcyBFcnN0ZQ"
+         },
+         "links":{
+            "self":{
+               "id":"Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvZGFjYjhjMTAtZmJiOS00MzEzLWEwOTctYjA2NGFkMTcxZTY3",
+               "urlId":"Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvZGFjYjhjMTAtZmJiOS00MzEzLWEwOTctYjA2NGFkMTcxZTY3",
+               "title":"tagesschau, 20:00 Uhr",
+               "href":"https://api.ardmediathek.de/page-gateway/teasers/ard/items/Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvZGFjYjhjMTAtZmJiOS00MzEzLWEwOTctYjA2NGFkMTcxZTY3",
+               "type":"application/vnd.ard.teaser+json",
+               "partner":"ard"
+            },
+            "target":{
+               "id":"Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvZGFjYjhjMTAtZmJiOS00MzEzLWEwOTctYjA2NGFkMTcxZTY3",
+               "urlId":"Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvZGFjYjhjMTAtZmJiOS00MzEzLWEwOTctYjA2NGFkMTcxZTY3",
+               "title":"tagesschau, 20:00 Uhr",
+               "href":"https://api.ardmediathek.de/page-gateway/pages/ard/item/Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvZGFjYjhjMTAtZmJiOS00MzEzLWEwOTctYjA2NGFkMTcxZTY3?devicetype=pc&embedded=true",
+               "type":"application/vnd.ard.page+json",
+               "partner":"ard"
+            }
+         },
+         "shortTitle":"tagesschau, 20:00 Uhr",
+         "show":{
+            "id":"crid://daserste.de/tagesschau",
+            "coremediaId":4326,
+            "title":"Tagesschau",
+            "publisher":{
+               "name":"Das Erste",
+               "logo":{
+                  "title":"Logo Das Erste",
+                  "alt":"Logo Das Erste",
+                  "producerName":"Das Erste",
+                  "src":"https://api.ardmediathek.de/image-service/image-collections/urn:ard:image-collection:2213972a8d101de1/16x9?w={width}&f=",
+                  "aspectRatio":"16x9"
+               },
+               "publisherType":"TV",
+               "partner":"das_erste",
+               "id":"b3JnYW5pemF0aW9uX0RhcyBFcnN0ZQ"
+            },
+            "self":null,
+            "images":{
+               "16x9":{
+                  "title":"Tagesschau - Standbild",
+                  "alt":"Bild zur Sendung Tagesschau",
+                  "producerName":"Das Erste",
+                  "src":"https://api.ardmediathek.de/image-service/images/urn:ard:image:4b2720edb6b2f99f?w={width}&f=",
+                  "aspectRatio":"16x9"
+               }
+            },
+            "shortSynopsis":"Die Tagesschau ist die älteste und meistgesehene Nachrichtensendung im deutschen Fernsehen. Bis heute der Inbegriff für aktuelle Nachrichten. Seriös und auf den Punkt.",
+            "synopsis":"Die Tagesschau ist die älteste und meistgesehene Nachrichtensendung im deutschen Fernsehen. Bis heute der Inbegriff für aktuelle Nachrichten. Seriös und auf den Punkt.",
+            "longSynopsis":"Die Tagesschau ist die älteste und meistgesehene Nachrichtensendung im deutschen Fernsehen. Bis heute der Inbegriff für aktuelle Nachrichten. Seriös und auf den Punkt.",
+            "modificationDate":null,
+            "assetSource":"TwilightFeeder",
+            "groupingType":"SHOW",
+            "homepage":{
+               "id":null,
+               "title":"Tagesschau",
+               "href":"https://www.tagesschau.de",
+               "type":null
+            },
+            "hasSeasons":false,
+            "seriesDetail":null,
+            "isChildContent":false
+         },
+         "subtitled":true,
+         "titleVisible":true,
+         "type":"ondemand"
+      },
+      {
+         "availableTo":null,
+         "broadcastedOn":"2021-11-23T19:00:00Z",
+         "decor":"none",
+         "duration":902,
+         "id":"Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvMmQ2ZmZiOGEtOTZmMy00YmIwLTk2NmQtZDJkMzBlMmJlMzIy",
+         "images":{
+            "aspect16x9":{
+               "alt":"Sendungsbild",
+               "producerName":"ARD-Standbild",
+               "src":"https://api.ardmediathek.de/image-service/images/urn:ard:image:71d8cb820f51fb7c?w={width}&f=",
+               "title":"tagesschau, 20:00 Uhr - "
+            }
+         },
+         "isChildContent":false,
+         "longTitle":"tagesschau, 20:00 Uhr",
+         "maturityContentRating":"NONE",
+         "mediumTitle":"tagesschau, 20:00 Uhr",
+         "personalized":false,
+         "playtime":null,
+         "publicationService":{
+            "name":"Das Erste",
+            "logo":{
+               "title":"Logo Das Erste",
+               "alt":"Logo Das Erste",
+               "producerName":"Das Erste",
+               "src":"https://api.ardmediathek.de/image-service/image-collections/urn:ard:image-collection:2213972a8d101de1/16x9?w={width}&f=",
+               "aspectRatio":"16x9"
+            },
+            "publisherType":"TV",
+            "partner":"das_erste",
+            "id":"b3JnYW5pemF0aW9uX0RhcyBFcnN0ZQ"
+         },
+         "links":{
+            "self":{
+               "id":"Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvMmQ2ZmZiOGEtOTZmMy00YmIwLTk2NmQtZDJkMzBlMmJlMzIy",
+               "urlId":"Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvMmQ2ZmZiOGEtOTZmMy00YmIwLTk2NmQtZDJkMzBlMmJlMzIy",
+               "title":"tagesschau, 20:00 Uhr",
+               "href":"https://api.ardmediathek.de/page-gateway/teasers/ard/items/Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvMmQ2ZmZiOGEtOTZmMy00YmIwLTk2NmQtZDJkMzBlMmJlMzIy",
+               "type":"application/vnd.ard.teaser+json",
+               "partner":"ard"
+            },
+            "target":{
+               "id":"Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvMmQ2ZmZiOGEtOTZmMy00YmIwLTk2NmQtZDJkMzBlMmJlMzIy",
+               "urlId":"Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvMmQ2ZmZiOGEtOTZmMy00YmIwLTk2NmQtZDJkMzBlMmJlMzIy",
+               "title":"tagesschau, 20:00 Uhr",
+               "href":"https://api.ardmediathek.de/page-gateway/pages/ard/item/Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvMmQ2ZmZiOGEtOTZmMy00YmIwLTk2NmQtZDJkMzBlMmJlMzIy?devicetype=pc&embedded=true",
+               "type":"application/vnd.ard.page+json",
+               "partner":"ard"
+            }
+         },
+         "shortTitle":"tagesschau, 20:00 Uhr",
+         "show":{
+            "id":"crid://daserste.de/tagesschau",
+            "coremediaId":4326,
+            "title":"Tagesschau",
+            "publisher":{
+               "name":"Das Erste",
+               "logo":{
+                  "title":"Logo Das Erste",
+                  "alt":"Logo Das Erste",
+                  "producerName":"Das Erste",
+                  "src":"https://api.ardmediathek.de/image-service/image-collections/urn:ard:image-collection:2213972a8d101de1/16x9?w={width}&f=",
+                  "aspectRatio":"16x9"
+               },
+               "publisherType":"TV",
+               "partner":"das_erste",
+               "id":"b3JnYW5pemF0aW9uX0RhcyBFcnN0ZQ"
+            },
+            "self":null,
+            "images":{
+               "16x9":{
+                  "title":"Tagesschau - Standbild",
+                  "alt":"Bild zur Sendung Tagesschau",
+                  "producerName":"Das Erste",
+                  "src":"https://api.ardmediathek.de/image-service/images/urn:ard:image:4b2720edb6b2f99f?w={width}&f=",
+                  "aspectRatio":"16x9"
+               }
+            },
+            "shortSynopsis":"Die Tagesschau ist die älteste und meistgesehene Nachrichtensendung im deutschen Fernsehen. Bis heute der Inbegriff für aktuelle Nachrichten. Seriös und auf den Punkt.",
+            "synopsis":"Die Tagesschau ist die älteste und meistgesehene Nachrichtensendung im deutschen Fernsehen. Bis heute der Inbegriff für aktuelle Nachrichten. Seriös und auf den Punkt.",
+            "longSynopsis":"Die Tagesschau ist die älteste und meistgesehene Nachrichtensendung im deutschen Fernsehen. Bis heute der Inbegriff für aktuelle Nachrichten. Seriös und auf den Punkt.",
+            "modificationDate":null,
+            "assetSource":"TwilightFeeder",
+            "groupingType":"SHOW",
+            "homepage":{
+               "id":null,
+               "title":"Tagesschau",
+               "href":"https://www.tagesschau.de",
+               "type":null
+            },
+            "hasSeasons":false,
+            "seriesDetail":null,
+            "isChildContent":false
+         },
+         "subtitled":true,
+         "titleVisible":true,
+         "type":"ondemand"
+      },
+      {
+         "availableTo":null,
+         "broadcastedOn":"2021-11-22T19:00:00Z",
+         "decor":"none",
+         "duration":910,
+         "id":"Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvMjg1ZDgxMDAtN2VjMy00Zjk0LWJiZmUtOTI5ZmRhNmViYzBk",
+         "images":{
+            "aspect16x9":{
+               "alt":"Sendungsbild",
+               "producerName":"ARD-Standbild",
+               "src":"https://api.ardmediathek.de/image-service/images/urn:ard:image:c9553a6f55d14678?w={width}&f=",
+               "title":"tagesschau, 20:00 Uhr - "
+            }
+         },
+         "isChildContent":false,
+         "longTitle":"tagesschau, 20:00 Uhr",
+         "maturityContentRating":"NONE",
+         "mediumTitle":"tagesschau, 20:00 Uhr",
+         "personalized":false,
+         "playtime":null,
+         "publicationService":{
+            "name":"Das Erste",
+            "logo":{
+               "title":"Logo Das Erste",
+               "alt":"Logo Das Erste",
+               "producerName":"Das Erste",
+               "src":"https://api.ardmediathek.de/image-service/image-collections/urn:ard:image-collection:2213972a8d101de1/16x9?w={width}&f=",
+               "aspectRatio":"16x9"
+            },
+            "publisherType":"TV",
+            "partner":"das_erste",
+            "id":"b3JnYW5pemF0aW9uX0RhcyBFcnN0ZQ"
+         },
+         "links":{
+            "self":{
+               "id":"Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvMjg1ZDgxMDAtN2VjMy00Zjk0LWJiZmUtOTI5ZmRhNmViYzBk",
+               "urlId":"Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvMjg1ZDgxMDAtN2VjMy00Zjk0LWJiZmUtOTI5ZmRhNmViYzBk",
+               "title":"tagesschau, 20:00 Uhr",
+               "href":"https://api.ardmediathek.de/page-gateway/teasers/ard/items/Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvMjg1ZDgxMDAtN2VjMy00Zjk0LWJiZmUtOTI5ZmRhNmViYzBk",
+               "type":"application/vnd.ard.teaser+json",
+               "partner":"ard"
+            },
+            "target":{
+               "id":"Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvMjg1ZDgxMDAtN2VjMy00Zjk0LWJiZmUtOTI5ZmRhNmViYzBk",
+               "urlId":"Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvMjg1ZDgxMDAtN2VjMy00Zjk0LWJiZmUtOTI5ZmRhNmViYzBk",
+               "title":"tagesschau, 20:00 Uhr",
+               "href":"https://api.ardmediathek.de/page-gateway/pages/ard/item/Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvMjg1ZDgxMDAtN2VjMy00Zjk0LWJiZmUtOTI5ZmRhNmViYzBk?devicetype=pc&embedded=true",
+               "type":"application/vnd.ard.page+json",
+               "partner":"ard"
+            }
+         },
+         "shortTitle":"tagesschau, 20:00 Uhr",
+         "show":{
+            "id":"crid://daserste.de/tagesschau",
+            "coremediaId":4326,
+            "title":"Tagesschau",
+            "publisher":{
+               "name":"Das Erste",
+               "logo":{
+                  "title":"Logo Das Erste",
+                  "alt":"Logo Das Erste",
+                  "producerName":"Das Erste",
+                  "src":"https://api.ardmediathek.de/image-service/image-collections/urn:ard:image-collection:2213972a8d101de1/16x9?w={width}&f=",
+                  "aspectRatio":"16x9"
+               },
+               "publisherType":"TV",
+               "partner":"das_erste",
+               "id":"b3JnYW5pemF0aW9uX0RhcyBFcnN0ZQ"
+            },
+            "self":null,
+            "images":{
+               "16x9":{
+                  "title":"Tagesschau - Standbild",
+                  "alt":"Bild zur Sendung Tagesschau",
+                  "producerName":"Das Erste",
+                  "src":"https://api.ardmediathek.de/image-service/images/urn:ard:image:4b2720edb6b2f99f?w={width}&f=",
+                  "aspectRatio":"16x9"
+               }
+            },
+            "shortSynopsis":"Die Tagesschau ist die älteste und meistgesehene Nachrichtensendung im deutschen Fernsehen. Bis heute der Inbegriff für aktuelle Nachrichten. Seriös und auf den Punkt.",
+            "synopsis":"Die Tagesschau ist die älteste und meistgesehene Nachrichtensendung im deutschen Fernsehen. Bis heute der Inbegriff für aktuelle Nachrichten. Seriös und auf den Punkt.",
+            "longSynopsis":"Die Tagesschau ist die älteste und meistgesehene Nachrichtensendung im deutschen Fernsehen. Bis heute der Inbegriff für aktuelle Nachrichten. Seriös und auf den Punkt.",
+            "modificationDate":null,
+            "assetSource":"TwilightFeeder",
+            "groupingType":"SHOW",
+            "homepage":{
+               "id":null,
+               "title":"Tagesschau",
+               "href":"https://www.tagesschau.de",
+               "type":null
+            },
+            "hasSeasons":false,
+            "seriesDetail":null,
+            "isChildContent":false
+         },
+         "subtitled":true,
+         "titleVisible":true,
+         "type":"ondemand"
+      }
+   ],
+   "title":"Tagesschau",
+   "titleVisible":true,
+   "type":"gridlist"
+}
